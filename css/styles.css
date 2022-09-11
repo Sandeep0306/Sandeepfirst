@@ -40,7 +40,7 @@ p{
 }
 .pic{
   width: 60%;
-  transform: rotate(25deg);
+  /*transform: rotate(25deg)*/
 
 }
 #features{
