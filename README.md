@@ -1,3 +1,3 @@
 Tindog Website 
 
-Access this website here - https://sandeep0306.github.io/Sandeepfirst/
+Access this website here - https://sandeep0306.github.io/Tindog_website/
