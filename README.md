@@ -1,6 +1,6 @@
 Tindog Website 
 
 Access this website here - https://sandeep0306.github.io/Tindog_website/
+
 Technolgy Used :
-![image](https://user-images.githubusercontent.com/112690853/195862888-dc721069-6501-4626-a08c-747dba8c9cb3.png)
-![image](https://user-images.githubusercontent.com/112690853/195863019-54c5e66d-0128-4cbd-989e-e9a0bd3200ee.png)
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z"/></svg>
