@@ -43,6 +43,7 @@ p{
   margin: 5% 3% 5% 0;
 }
 .pic{
+  margin-left: 2rem;
   width: 40%;
   /*transform: rotate(25deg)*/
 
